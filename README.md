@@ -1,4 +1,4 @@
-# Demo of automation for websites forms
+# Demo of automation for website forms
 
 Testing with puppeteer-js and nodejs
 
